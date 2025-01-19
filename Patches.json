@@ -1,0 +1,11 @@
+{
+    "patches": [
+      {
+        "files": [ "pakchunk0-Windows.zip" ],
+        "folder": "game/your_game/Content/Paks/",
+        "version": 0.1,
+        "save_as": "pakchunk0-Windows.zip"
+      }
+  
+    ]
+  }
