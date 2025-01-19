@@ -1,10 +1,10 @@
 {
     "patches": [
       {
-        "files": [ "pakchunk0-Windows.zip" ],
+        "files": [ "MemeGameV1.zip" ],
         "folder": "game/your_game/Content/Paks/",
         "version": 0.1,
-        "save_as": "pakchunk0-Windows.zip"
+        "save_as": "MemeGameV1.zip"
       }
   
     ]
