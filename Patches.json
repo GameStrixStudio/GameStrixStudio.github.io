@@ -2,10 +2,9 @@
     "patches": [
       {
         "files": [ "MemeGameV1.zip" ],
-        "folder": "game/your_game/Content/Paks/",
+        "folder": "game/",
         "version": 0.1,
         "save_as": "MemeGameV1.zip"
       }
-  
     ]
   }
