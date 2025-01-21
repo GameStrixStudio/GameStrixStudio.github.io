@@ -41,3 +41,4 @@
 *.usf filter=lfs diff=lfs merge=lfs -text
 *.ush filter=lfs diff=lfs merge=lfs -text
 *.uprog filter=lfs diff=lfs merge=lfs -text
+*.ucas filter=lfs diff=lfs merge=lfs -text
