@@ -1,10 +1,10 @@
 {
   "patches": [
     {
-      "files": [ "MemeAliance.zip" ],
-      "folder": "game/",
+      "files": [ "pakchunk0optional-Windows.zip" ],
+      "folder": "game/MemeAliance/Content/Paks/",
       "version": 0.1,
-      "save_as": "MemeAliance.zip"
+      "save_as": "pakchunk0optional-Windows.zip"
     }
   ]
   }
