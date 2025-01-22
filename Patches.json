@@ -1,40 +1,10 @@
 {
   "patches": [
     {
-      "files": [ "MemeAliance.zip" ],
+      "files": [ "MemeAliance" ],
       "folder": "game/",
       "version": 0.1,
-      "save_as": "MemeAliance.zip"
-    },
-    {
-      "files": [ "MemeAliance.z01" ],
-      "folder": "game/",
-      "version": 0.1,
-      "save_as": "MemeAliance.z01"
-    },
-    {
-      "files": [ "MemeAliance.z02" ],
-      "folder": "game/",
-      "version": 0.1,
-      "save_as": "MemeAliance.z02"
-    },
-    {
-      "files": [ "MemeAliance.z03" ],
-      "folder": "game/",
-      "version": 0.1,
-      "save_as": "MemeAliance.z03"
-    },
-    {
-      "files": [ "MemeAliance.z04" ],
-      "folder": "game/",
-      "version": 0.1,
-      "save_as": "MemeAliance.z04"
-    },
-    {
-      "files": [ "MemeAliance.z05" ],
-      "folder": "game/",
-      "version": 0.1,
-      "save_as": "MemeAliance.z05"
+      "save_as": "MemeAliance"
     }
   ]
   }
